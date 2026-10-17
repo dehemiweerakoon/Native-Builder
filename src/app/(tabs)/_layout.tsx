@@ -1,6 +1,12 @@
-import { Stack } from 'expo-router';
+import { Tabs } from "expo-router";
 
 export default function TabsLayout() {
-  return <Stack initialRouteName="index" 
-  screenOptions={{headerShown: false}}/>;
+  return (
+    <Tabs screenOptions={{ headerShown: false }}>
+      <Tabs.Screen name="index" options={{ title: "Home" }} />
+      <Tabs.Screen name="subscriptions" options={{ title: "Subscription" }} />
+      <Tabs.Screen name="insights" options={{ title: "Insights" }} />
+      <Tabs.Screen name="settings" options={{ title: "Settings" }} />
+    </Tabs>
+  );
 }
