@@ -5,6 +5,8 @@
   "dependencies": {
     "@expo/ui": "~57.0.25",
     "clsx": "^2.1.1",
+    "datejs": "^1.0.0-rc3",
+    "dayjs": "^1.11.23",
     "expo": "~57.0.30",
     "expo-constants": "~57.0.22",
     "expo-device": "~57.0.2",
