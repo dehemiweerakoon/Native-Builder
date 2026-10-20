@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8cf28c8-4eda-4c58-848a-df1ad848d862" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/type.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/type.d.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dehemiweerakoon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dehemiweerakoon/Native-Builder.git",
+    "accountId": "2a0e03ad-a88e-442e-b129-769279e5cd6e"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000213983072" />
+      <entry key="S2" value="1.0216983364858863" />
+      <entry key="S5" value="1.259109492162221" />
+      <entry key="S10" value="1.7576740510258588" />
+      <entry key="S30" value="3.222284295219918" />
+      <entry key="S60" value="5.003768711906604" />
+      <entry key="M2" value="8.04486756653571" />
+      <entry key="M5" value="15.896755912830132" />
+      <entry key="M10" value="27.045300308059943" />
+      <entry key="M15" value="36.304710575925135" />
+      <entry key="M30" value="54.923707663274676" />
+      <entry key="H1" value="71.90712067132597" />
+      <entry key="H2" value="83.81812267844009" />
+      <entry key="H4" value="90.94058272242414" />
+      <entry key="D1" value="97.5858629656755" />
+      <entry key="W1" value="98.79616210992384" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.132842765301132E-17" />
+      <entry key="MS500" value="4.6322538541015E-4" />
+      <entry key="S2" value="0.1517008297901136" />
+      <entry key="S5" value="0.5886019157625305" />
+      <entry key="S10" value="1.122083439590232" />
+      <entry key="S30" value="2.4460539623964475" />
+      <entry key="S60" value="4.1650459501544495" />
+      <entry key="M2" value="7.625140851179677" />
+      <entry key="M5" value="16.87502678475855" />
+      <entry key="M10" value="30.45054078485114" />
+      <entry key="M15" value="41.97818369769301" />
+      <entry key="M30" value="65.71446456615871" />
+      <entry key="H1" value="87.88605641296427" />
+      <entry key="H2" value="103.6655121028251" />
+      <entry key="H4" value="113.17690114979652" />
+      <entry key="D1" value="122.09655598098743" />
+      <entry key="W1" value="123.72552062274855" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.76883858025414E-10" />
+      <entry key="MS500" value="0.012328296492776267" />
+      <entry key="S2" value="0.4460472459627859" />
+      <entry key="S5" value="1.372721639000659" />
+      <entry key="S10" value="2.5394140671651413" />
+      <entry key="S30" value="5.466174150729822" />
+      <entry key="S60" value="9.012705328539102" />
+      <entry key="M2" value="15.530677475788721" />
+      <entry key="M5" value="32.64364624525699" />
+      <entry key="M10" value="57.379172785810916" />
+      <entry key="M15" value="78.17634824979365" />
+      <entry key="M30" value="120.5561991383216" />
+      <entry key="H1" value="159.73909677459207" />
+      <entry key="H2" value="187.4519890361514" />
+      <entry key="H4" value="204.10028076156334" />
+      <entry key="D1" value="219.6793367651344" />
+      <entry key="W1" value="222.52123682171458" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KxogV5gCbxVBVO7A4VHcbJX9Yx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "E:/projects/COD on online shoppers research/designer/design-AI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ml.llm.LLMThirdPartyAiProvidersConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "E:\\projects\\COD on online shoppers research\\designer\\design-AI\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.9437.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8cf28c8-4eda-4c58-848a-df1ad848d862" name="Changes" comment="" />
+      <created>1792508695564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792508695564</updated>
+      <workItem from="1792508697220" duration="5128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
